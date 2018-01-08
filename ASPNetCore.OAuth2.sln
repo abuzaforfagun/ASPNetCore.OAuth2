@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCore.OAuth2", "ASPNetCore.OAuth2\ASPNetCore.OAuth2.csproj", "{86B66D82-D0BD-4F68-B41A-E0260561940A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNetCore.OAuth2", "ASPNetCore.OAuth2\ASPNetCore.OAuth2.csproj", "{86B66D82-D0BD-4F68-B41A-E0260561940A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EC070BCA-01AD-4913-8E6C-A49236AFB65E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{86B66D82-D0BD-4F68-B41A-E0260561940A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86B66D82-D0BD-4F68-B41A-E0260561940A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86B66D82-D0BD-4F68-B41A-E0260561940A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC070BCA-01AD-4913-8E6C-A49236AFB65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC070BCA-01AD-4913-8E6C-A49236AFB65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC070BCA-01AD-4913-8E6C-A49236AFB65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC070BCA-01AD-4913-8E6C-A49236AFB65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
